@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Cider</h2>
+    <h2 align="center">Rosé Pine Moon for Cider</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -23,7 +23,7 @@ If you want to change the color of the accents, you need to fork this repo then 
 
 ## Gallery
 
-![Rosé Pine with Cider](assets/screenshot.png)
+![Rosé Pine Moon with Cider](Screenshot.png)
 
 ## Thanks to
 
